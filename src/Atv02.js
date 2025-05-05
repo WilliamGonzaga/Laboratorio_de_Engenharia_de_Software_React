@@ -1,5 +1,5 @@
 import {Link} from "react-router-dom"
-import {ContadorDePessoas} from "./ContadorDePessoas"
+import ContadorDePessoas from "./ContadorDePessoas"
  
 export default function Atv02() {
     return (

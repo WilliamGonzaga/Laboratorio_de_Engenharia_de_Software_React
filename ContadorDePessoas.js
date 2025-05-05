@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import './ContadorDePessoas.css';
 
-export default function ContadorDePEssoas() {
+export default function ContadorDePessoas() {
   const [homens, setHomens] = useState(0);
   const [mulheres, setMulheres] = useState(0);
 
